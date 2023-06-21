@@ -3,82 +3,82 @@
     {
       "ID": 1,
       "image": "https://www.netmeds.com/images/product-v1/150x150/100693/ahaglow_s_foaming_face_wash_60ml_0_3.jpg",
-      "discount": "14% OFF",
+      "discount": 14,
       "tittle": "Ahaglow S Foaming Face Wash 60ml",
       "category": "Mkt: Torrent Pharmaceuticals Ltd",
-      "price": "Rs.535.00"
+      "price": 535
     },
     {
       "ID": 2,
       "image": "https://www.netmeds.com/images/product-v1/150x150/814247/cetaphil_gentle_skin_cleanser_for_dry_and_sensitive_skin_125ml_58958_0_2.jpg",
-      "discount": "15% OFF",
+      "discount": 15,
       "tittle": "Cetaphil Gentle Skin Cleanser For Dry And Sensitive Skin 125ml",
       "category": "Mkt: Galderma India Pvt Ltd",
-      "price": "Rs.333.00"
+      "price": 333
     },
     {
       "ID": 3,
       "image": "https://www.netmeds.com/images/product-v1/150x150/828337/cetaphil_oily_skin_cleanser_125ml_0_0.jpg",
-      "discount": "15% OFF",
+      "discount": 15,
       "tittle": "Cetaphil Oily Skin Cleanser 125ml",
       "category": "Mkt: Galderma India Pvt Ltd",
-      "price": "Rs.545.00"
+      "price": 545
     },
     {
       "ID": 4,
       "image": "https://www.netmeds.com/images/product-v1/150x150/414294/d_acne_soft_face_wash_100gm_55377_0_2.jpg",
-      "discount": "18% OFF",
+      "discount": 18,
       "tittle": "D Acne Soft Face Wash 100gm",
       "category": "Mkt: Glenmark Pharmaceuticals Ltd",
-      "price": "Rs.399.00"
+      "price": 399
     },
     {
       "ID": 5,
       "image": "https://www.netmeds.com/images/product-v1/150x150/346480/tvaksh_face_care_face_wash_60_gm_0_1.jpg",
-      "discount": "12% OFF",
+      "discount": 12,
       "tittle": "Tvaksh Face Care Face Wash 60 gm",
       "category": "Mkt: Abbott Healthcare Pvt. Ltd.",
-      "price": "Rs.310.00"
+      "price": 310
     },
     {
       "ID": 6,
       "image": "https://www.netmeds.com/images/product-v1/150x150/101937/d_acne_foaming_face_wash_foam_60ml_36548_0_2.jpg",
-      "discount": "13% OFF",
+      "discount": 13,
       "tittle": "D Acne Foaming Face Wash Foam 60ml",
       "category": "Mkt: Glenmark Pharmaceuticals Ltd",
-      "price": "Rs.499.00"
+      "price": 499
     },
     {
       "ID": 7,
       "image": "https://www.netmeds.com/images/product-v1/150x150/13095/himalaya_purifying_neem_face_wash_100_ml_0_2.jpg",
-      "discount": "17% OFF",
+      "discount": 17,
       "tittle": "Himalaya Purifying Neem Face Wash neem & turmeric 100ml",
       "category": "Mkt: The Himalaya Drug Company",
-      "price": "Rs.150.00"
+      "price": 150
     },
     {
       "ID": 8,
       "image": "https://www.netmeds.com/images/product-v1/150x150/853857/ahaglow_acne_control_moisturizing_gel_50gm_76322_0_3.jpg",
-      "discount": "14% OFF",
+      "discount": 14,
       "tittle": "Ahaglow Acne Control Moisturizing Gel 50gm",
       "category": "Mkt: Torrent Pharmaceuticals Ltd",
-      "price": "Rs.575.00"
+      "price": 575
     },
     {
       "ID": 9,
       "image": "https://www.netmeds.com/images/product-v1/150x150/406895/cetaphil_gentle_skin_cleanser_for_all_skin_types_125ml_0.jpg",
-      "discount": "15% OFF",
+      "discount": 15,
       "tittle": "CETAPHIL GENTLE SKIN CLEANSER FOR ALL SKIN TYPES 125ml",
       "category": "Mkt: Galderma India Pvt Ltd",
-      "price": "Rs.333.00"
+      "price": 333
     },
     {
       "ID": 10,
       "image": "https://www.netmeds.com/images/product-v1/150x150/884812/ahaglow_s_foaming_face_wash_100ml_0_1.jpg",
-      "discount": "14% OFF",
+      "discount": 14,
       "tittle": "AHAGLOW S FOAMING Face Wash 100ml",
       "category": "Mkt: Torrent Pharmaceuticals Ltd",
-      "price": "Rs.695.00"
+      "price": 695
     }
   ]
 }
